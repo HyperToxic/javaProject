@@ -1,0 +1,13 @@
+package guohao.test.io;
+
+public class ObjectIOTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
